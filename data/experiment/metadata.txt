@@ -1,0 +1,8 @@
+t: time [h]
+OD: optical density 600nm [AU]
+CDWOD: cell dry weight [gL-1], OD regression
+CDW: cell dry weight [gL-1], direct measurement
+TDA: Abs 398nm [AU]
+O2: concentration oxygen [mM]
+CO2: concentration carbondioxide [mM]
+S, His, Thr, Val, Trp, Phe, Ile, Leu, Lys, Glc, Man, Nag: Substrate concentrations [mM]
