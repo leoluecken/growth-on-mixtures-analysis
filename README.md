@@ -23,9 +23,6 @@ The Python version used to generate the results in the paper is 3.11.3
     export PYTHONPATH=$PROJECT_HOME/src:$PYTHONPATH
 ```
 
-3) Download experimental data __TODO__
-
-
 # Generate the results
 
 To start the script, which sequentially generates the results shown in the paper, execute
